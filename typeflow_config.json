@@ -1,0 +1,20 @@
+{
+    "cpm": 300,
+    "humanization": 50,
+    "punct_pause": 300,
+    "newline_pause": 500,
+    "min_delay": 10,
+    "max_delay": 2000,
+    "countdown": 3,
+    "minimize": true,
+    "bypass_autocomplete": true,
+    "ide_auto_indent": true,
+    "ctrl_n_between_files": true,
+    "auto_save_files": false,
+    "git_auto_commit": true,
+    "git_repo_path": "C:/Users/pranj/OneDrive/Desktop/projects/mistysite",
+    "git_interval_mins": 30,
+    "git_push_remote": true,
+    "git_commit_on_finish": true,
+    "git_commit_per_file": false
+}
